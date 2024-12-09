@@ -244,3 +244,7 @@ p {
 .btn svg{
     color: #faed31;
 }
+
+.link {
+    text-decoration: none;
+}
